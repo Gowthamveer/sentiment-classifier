@@ -1,0 +1,12 @@
+torch
+transformers
+gradio
+huggingface_hub
+scikit-learn
+datasets
+mlflow
+fastapi
+uvicorn
+seaborn
+pandas
+numpy
